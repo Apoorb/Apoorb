@@ -32,6 +32,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/Apoorb/Apoorb/blob/output/github-contribution-grid-snake.svg)
- 
+  ![snake animation](https://github.com/Apoorb/Apoorb/blob/output/github-contribution-grid-snake2.svg)
+
 </div>
