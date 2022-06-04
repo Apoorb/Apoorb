@@ -22,7 +22,7 @@
   <img height="40" align="center" alt="Apoorb-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
  <img align="right" height="180em" alt="Erica-yoda" src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif">
-  <img align="right" height="180em" alt="Apoorb-yoda" src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif">
+ <img align="right" height="180em" alt="Apoorb-yoda" src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif">
 </div>
   
 </br>
