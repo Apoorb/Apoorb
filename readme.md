@@ -23,10 +23,10 @@
  </br>
 </br>
  
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/github-snake.svg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/github-snake.svg">
 </picture>
 
 </div>
