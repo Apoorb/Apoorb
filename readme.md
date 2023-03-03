@@ -31,7 +31,7 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)._
 _Example followed [Platane/Platane](https://github.com/Platane/Platane) and_
-_[Platane/Platane](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66)._
+_[Michelle Mannering's Blog](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66)._
 
 
 </div>
