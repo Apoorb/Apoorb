@@ -29,9 +29,9 @@
   <img alt="github contribution grid snake animation" src="https://github.com/Apoorb/Apoorb/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
+_generated with [Platane/snk](https://github.com/Platane/snk)._
 _Example followed [Platane/Platane](https://github.com/Platane/Platane) and_
-_[Platane/Platane](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66)_
+_[Platane/Platane](https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66)._
 
 
 </div>
