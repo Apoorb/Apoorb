@@ -1,4 +1,3 @@
-## Skills
 <div style="display: inline_block"><br>
   <img height="40" align="center" alt="Apoorb-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
